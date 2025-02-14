@@ -24,7 +24,7 @@
 📖 Disciplinas relevantes: Lógica de Programação, Fundamentos Web
 
 ### 📫 Vamos Conversar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](/www.linkedin.com/in/lucas-amaral-webdev)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-amaral-webdev/)  
 📧 luccasamaral28@gmail.com
 
 ### ⚡ Curiosidade
