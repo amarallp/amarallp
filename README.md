@@ -14,7 +14,7 @@
 ### 📂 Projetos Destacados
 1. **Projeto 1**  
    Esse site foi o meu primeiro projeto 100% funcional e operacional. Se trata de um catálogo de miniaturas feito em grid e uma sacola de compras, onde o que esta armazenado dentro do carrinho é enviado para o whatsapp da dona da loja. Feito em html, css e javascript. Futuramente será passado para react.js  
-   `🔗 [https://github.com/amarallp/Ju-Fantasy]()`
+   `🔗 https://github.com/amarallp/cadastro-e-login`
 
    2. **Projeto 2**  
   Projeto feito para tela de cadastro e login na página home. Focado no design e transição.  
