@@ -16,13 +16,14 @@
    Esse site foi o meu primeiro projeto 100% funcional e operacional. Se trata de um catálogo de miniaturas feito em grid e uma sacola de compras, onde o que esta armazenado dentro do carrinho é enviado para o whatsapp da dona da loja. Feito em html, css e javascript. Futuramente será passado para react.js  
    `🔗 https://github.com/amarallp/cadastro-e-login`
 
-   2. **Projeto 2**  
-  Projeto feito para tela de cadastro e login na página home. Focado no design e transição.  
-   `🔗 [https://github.com/amarallp/Ju-Fantasy](`
-
  3. **Projeto 3**  
  Desenvolvi uma réplica interativa e responsiva da página inicial do Spotify, utilizando HTML, CSS e JavaScript, com foco em replicar fielmente a interface e a experiência do usuário. O projeto inclui uma estrutura modular, componentes dinâmicos e integração de dados simulados, seguindo as boas práticas de desenvolvimento front-end.  
    `🔗 https://github.com/amarallp/replica-spotify-home`
+
+
+ 2. **Projeto 2**  
+  Projeto feito para tela de cadastro e login na página home. Focado no design e transição.  
+   `🔗 [https://github.com/amarallp/Ju-Fantasy](`
 
 *(Mais projetos em breve!)*
 
