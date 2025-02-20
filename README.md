@@ -20,6 +20,10 @@
   Projeto feito para tela de cadastro e login na página home. Focado no design e transição.  
    `🔗 [https://github.com/amarallp/Ju-Fantasy](`
 
+ 3. **Projeto 3**  
+ Desenvolvi uma réplica interativa e responsiva da página inicial do Spotify, utilizando HTML, CSS e JavaScript, com foco em replicar fielmente a interface e a experiência do usuário. O projeto inclui uma estrutura modular, componentes dinâmicos e integração de dados simulados, seguindo as boas práticas de desenvolvimento front-end.  
+   `🔗 https://github.com/amarallp/replica-spotify-home`
+
 *(Mais projetos em breve!)*
 
 ### 📚 Formação
